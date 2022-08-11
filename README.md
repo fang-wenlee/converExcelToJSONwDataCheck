@@ -1,2 +1,2 @@
-# converExcelToJSONwDataCheck
+# ConvertExcelToJson
 Created with CodeSandbox
